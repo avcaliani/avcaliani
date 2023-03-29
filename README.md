@@ -15,9 +15,11 @@ Analytics Engineer at [Nubank](https://github.com/nubank)
 ```python
 anthony = {
     "pronouns": "He" | "Him",
-    "code": ["Python", "Scala", "Bash"],
+    "country": "🇧🇷",
+    "languages": ["pt-BR", "en-US"], 
     "ask_me_about": ["data engineering", "tech", "e-sports (fps)"],
     "technologies": {
+        "code": ["Python", "Scala", "Bash"],
         "frameworks": ["apache-spark", "pandas", "fast-api"],
         "dev_ops": ["aws", "google-cloud", "docker🐳"],
         "misc": ["apache-kafka", "rabbit-mq", "airflow"],
@@ -36,7 +38,7 @@ anthony = {
 }
 ```
 
-### Some Cool Stats
+### Cool Stats
 <div>
 <a href="https://github.com/avcaliani">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcaliani&layout=compact&langs_count=7"/>
