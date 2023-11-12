@@ -1,6 +1,5 @@
 # Hey there, I'm Anthony 👋
 
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 Analytics Engineer at [Nubank](https://github.com/nubank)
@@ -14,10 +13,10 @@ Analytics Engineer at [Nubank](https://github.com/nubank)
 
 ```python
 anthony = {
-    "pronouns": "He" | "Him",
+    "pronouns": ["He", "Him"],
     "country": "🇧🇷",
     "languages": ["pt-BR", "en-US"], 
-    "ask_me_about": ["data engineering", "tech", "e-sports (fps)"],
+    "ask_me_about": ["data engineering", "back-end", "tech", "e-sports (fps)"],
     "technologies": {
         "code": ["Python", "Scala", "Bash"],
         "frameworks": ["apache-spark", "pandas", "fast-api"],
@@ -27,7 +26,7 @@ anthony = {
           "mongo", "my-sql", "postgresql", "bigquery", "dynamo-db"
         ],
     },
-    "current_focus": "Finish my MBA 🚀",
+    "current_focus": "Improve my skills 🚀",
     "nice_quote": {
       "quote": """
         Any fool can write code that a computer can understand. 
@@ -39,6 +38,7 @@ anthony = {
 ```
 
 ### Cool Stats
+
 <div>
 <a href="https://github.com/avcaliani">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcaliani&layout=compact&langs_count=7"/>
