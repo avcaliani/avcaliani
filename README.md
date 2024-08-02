@@ -16,17 +16,17 @@ anthony = {
     "pronouns": ["He", "Him"],
     "country": "🇧🇷",
     "languages": ["pt-BR", "en-US"], 
-    "ask_me_about": ["data engineering", "back-end", "tech", "e-sports (fps)"],
+    "ask_me_about": ["data engineering", "back-end", "tech", "e-sports (counter strike)"],
     "technologies": {
         "code": ["Python", "Scala", "Bash"],
         "frameworks": ["apache-spark", "pandas", "fast-api"],
-        "dev_ops": ["aws", "google-cloud", "docker🐳"],
-        "misc": ["apache-kafka", "rabbit-mq", "airflow"],
+        "dev_ops": ["aws", "docker🐳", "google-cloud"],
+        "misc": ["apache-kafka", "airflow"],
         "databases": [
           "mongo", "my-sql", "postgresql", "bigquery", "dynamo-db"
         ],
     },
-    "current_focus": "Improve my skills 🚀",
+    "current_focus": "Improving my tech and leadership skills 🚀",
     "nice_quote": {
       "quote": """
         Any fool can write code that a computer can understand. 
