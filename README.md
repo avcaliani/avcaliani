@@ -9,40 +9,44 @@ Analytics Engineer at [Nubank](https://github.com/nubank)
 [![Linkedin: anthony](https://img.shields.io/badge/-anthony-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonycaliani)
 ![GitHub followers](https://img.shields.io/github/followers/avcaliani?label=Follow&style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### About me...
 
-```python
-anthony = {
-    "pronouns": ["He", "Him"],
-    "country": "🇧🇷",
-    "languages": ["pt-BR", "en-US"], 
-    "ask_me_about": ["data engineering", "back-end", "tech", "e-sports (counter strike)"],
-    "technologies": {
-        "code": ["Python", "Scala", "Bash"],
-        "frameworks": ["apache-spark", "pandas", "fast-api"],
-        "dev_ops": ["aws", "docker🐳", "google-cloud"],
-        "misc": ["apache-kafka", "airflow"],
-        "databases": [
-          "mongo", "my-sql", "postgresql", "bigquery", "dynamo-db"
-        ],
-    },
-    "current_focus": "Improving my tech and leadership skills 🚀",
-    "nice_quote": {
-      "quote": """
-        Any fool can write code that a computer can understand. 
-        Good programmers write code that humans can understand.
-      """,
-      "author": "Martin Fowler",
-    }
-}
+```yml
+pronouns: "He/Him"
+country: "Brazil 🇧🇷"
+languages: [ "pt-BR", "en-US" ]
+current_focus: Improving my tech and leadership skills 🚀
+
+tech_stack:
+    coding: [ "python", "scala", "bash", "java" ]
+    cloud: [ "aws", "google-cloud" ]
+    frameworks:
+        - apache-spark
+        - fast-api
+        - apache-flink (learning 📚)
+    dev_ops:
+        - docker
+        - airflow
+        - apache-kafka
+        - kubernetes (learning 📚)
+
+a_nice_quote: >
+        Any fool can write code that a computer can understand. Good programmers
+        write code that humans can understand - Martin Fowler
+
+topics_of_interest:
+    - software development
+    - design system
+    - data-engineering & back-end
+    - counter strike & e-sports
 ```
 
 ### Cool Stats
 
 <div>
 <a href="https://github.com/avcaliani">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcaliani&layout=compact&langs_count=7"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=avcaliani&show_icons=true&include_all_commits=true&count_private=false"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcaliani&layout=compact&langs_count=7"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=avcaliani&rank_icon=github&show_icons=true&include_all_commits=true&count_private=false"/>
 </div>
 
 <!--
