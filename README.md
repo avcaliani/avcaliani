@@ -1,6 +1,10 @@
 # Hey there, I'm Anthony 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Exb3gyZzBobzR0bzd0aTNldWM3cHhscXJtMzlmN3Y2eTBpb2pnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOQ6EgtAiwXde/giphy.gif" width="230">
+
+
 
 Analytics Engineer at [Nubank](https://github.com/nubank)
 
