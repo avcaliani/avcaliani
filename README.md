@@ -45,14 +45,6 @@ topics_of_interest:
     - counter strike & e-sports
 ```
 
-### Cool Stats
-
-<div>
-<a href="https://github.com/avcaliani">
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcaliani&layout=compact&langs_count=7"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=avcaliani&rank_icon=github&show_icons=true&include_all_commits=true&count_private=false"/>
-</div>
-
 <!--
 References:
   - https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
