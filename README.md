@@ -16,33 +16,30 @@ Analytics Engineer at [Nubank](https://github.com/nubank)
 ### About me...
 
 ```yml
-pronouns: "He/Him"
-country: "Brazil 🇧🇷"
-languages: [ "pt-BR", "en-US" ]
-current_focus: Improving my tech and leadership skills 🚀
+anthony:
+  country: 🇧🇷
+  languages: pt-BR, en-US
+  current_focus: Keep myself always learning! 🚀
+  
+  tech_stack:
+    code: Python, Scala, Java, Shell Script, JS (it's being a while)
+    frameworks: apache-spark, pandas, fast-api, spring-boot
+    dev_ops: docker 🐳, terraform, shell-script, aws, google-cloud
+    misc: airflow, apache-kafka, rabbit-mq
+    databases: my-sql, postgresql, dynamo-db, mongo-db
+  
+  i_love_to_talk_about:
+    - data-engineering
+    - system-design
+    - back-end
+    - tech
+    - counter strike  
 
-tech_stack:
-    coding: [ "python", "scala", "bash", "java" ]
-    cloud: [ "aws", "google-cloud" ]
-    frameworks:
-        - apache-spark
-        - fast-api
-        - apache-flink (learning 📚)
-    dev_ops:
-        - docker
-        - airflow
-        - apache-kafka
-        - kubernetes (learning 📚)
-
-a_nice_quote: >
-        Any fool can write code that a computer can understand. Good programmers
-        write code that humans can understand - Martin Fowler
-
-topics_of_interest:
-    - software development
-    - design system
-    - data-engineering & back-end
-    - counter strike & e-sports
+  inspiration:
+    quote:
+      I'm not a great programmer; 
+      I'm just a good programmer with great habits.
+    author: Martin Fowler
 ```
 
 <!--
