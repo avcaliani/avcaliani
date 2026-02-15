@@ -17,6 +17,6 @@ I organize my GitHub by intent:
 - Labs & PoCs — focused experiments
 - Deep dives — in-depth explorations
 
-📫 [https://linkedin.com/in/avcaliani](https://linkedin.com/in/avcaliani)
+📫 https://www.linkedin.com/in/anthony-caliani/
 
 ![gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBiemhweGdpNHM0N2ExNWpqdTJiYnJkODFkbHZzeTJydWVmcTl2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsKnRuALlWsZG/giphy.gif)
