@@ -12,7 +12,7 @@ MAJOR.MINOR.PATCH
 
 > I'm also keeping the GitHub tags aligned with the DockerHub Tags.
 
-![byte-byte-go](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefaeb917-d62e-4f04-b3bc-0644d50fa948_800x988.gif)
+![byte-byte-go](https://substack-post-media.s3.amazonaws.com/public/images/efaeb917-d62e-4f04-b3bc-0644d50fa948_800x988.gif)
 
 > [Image Source](https://blog.bytebytego.com/p/ep120-what-do-version-numbers-mean)
 
