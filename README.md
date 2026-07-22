@@ -1,10 +1,11 @@
 # Hey there, I'm Anthony 👋
 
-I'm a Lead Analytics Engineer at [Nubank](https://github.com/nubank).  
+I'm a Lead Data Engineer at [Nubank](https://github.com/nubank).  
 I focus on building reliable data platforms grounded in distributed systems, closely connected to the back-end layer, and designed to generate real value from data.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat\&logo=scala\&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=flat\&logo=clojure\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat\&logo=apachekafka\&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat\&logo=apachespark\&logoColor=white)
 ![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat\&logo=apacheflink\&logoColor=white)
