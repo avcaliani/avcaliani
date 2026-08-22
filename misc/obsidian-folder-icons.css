@@ -1,0 +1,53 @@
+/* How to configure this file in your Obsidian?
+ * -------------------------------------------------
+ * Obsidian > Settings > Appearance > CSS Snippets
+ *
+ * Then add this CSS file in the specific folder, 
+ * finally restart the Obsidian and check in the settings again if the CSS is active.
+ *
+ * Icons
+ * -------------------
+ * f10a - design_services
+ * e2c7 - folder
+ * e2c8 - folder_open
+ * e3f4 - image 
+ * e8d2 - subject
+ *
+ * https://fonts.google.com/icons
+ */
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=design_services,folder,folder_open,image,subject');
+
+/* Folder Icon */
+.nav-folder-title-content::before {
+  content: "\e2c7";
+  font-family: 'Material Symbols Outlined';
+  margin-right: 8px;
+  color: var(--text-accent) !important;
+}
+
+/* Open Folder Icon */
+.nav-folder:not(.is-collapsed) > .nav-folder-title > .nav-folder-title-content::before {
+  content: "\e2c8";
+}
+
+/* File Icon */
+.nav-file-title::before {
+  content: "\e8d2";
+  font-family: 'Material Symbols Outlined';
+  margin-right: 8px;
+  
+}
+
+.nav-file-title[data-path$="png"]::before {
+  content: "\e3f4";
+}
+
+.nav-file-title[data-path$="excalidraw"]::before,.nav-file-title[data-path$="excalidraw.md"]::before {
+  content: "\f10a";
+  color: var(--text-accent);
+}
+
+/* Active File */
+.nav-file-title.is-active{
+  color: var(--text-accent) !important;
+}
