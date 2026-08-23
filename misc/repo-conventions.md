@@ -12,7 +12,6 @@ Repository conventions for a clean, intentional, future-proof GitHub.
 | **scratchpad** *mono-repo* | Quick experiments, spikes, and throwaway code. ***folder-structure** → data | streaming | orchestration | infra | benchmarks | misc | trash* | What happens if I try this? |
 | **archive** *mono-repo* | Frozen, read-only projects preserved for reference. No refactoring, no dependency upgrades, no CI/CD, no active development. | What did this look like at the time? |
 
-
 ### Graduation Rule
 
 ```mermaid
