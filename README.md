@@ -17,6 +17,7 @@ I organize my GitHub by intent:
 - Scratchpad: quick spikes
 - Labs: one tech per repo
 - Archive: history only
+- Projects: standalone repos with their own names
 
 📫 https://www.linkedin.com/in/anthony-caliani/
 

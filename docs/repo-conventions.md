@@ -2,7 +2,7 @@
 
 # Repo Conventions
 
-![gif](https://media.giphy.com/media/9itja4ux9fpFTSu7le/giphy.gif)
+![gif](https://media.giphy.com/media/9itja4ux9fpFTSu7le/giphy-downsized.gif)
 
 How I organize my GitHub: which kinds of repos exist, how they evolve, and how they are tagged.
 
@@ -39,9 +39,9 @@ config:
   look: handDrawn
 ---
 flowchart LR
-    S["📝 scratchpad"] -->|"Lab exists"| L["🔬 lab"]
-    L -->|"Outdated, still useful"| A["📦 archived lab"]
-    A -->|"Not needed anymore"| R["🗄️ archive"]
+    S["scratchpad"] -->|"Lab exists"| L["lab"]
+    L -->|"Outdated, still useful"| A["archived lab"]
+    A -->|"Not needed anymore"| R["archive"]
 ```
 
 - **archived lab**: GitHub-archived, public, kept for consulting.
