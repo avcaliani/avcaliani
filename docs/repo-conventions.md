@@ -61,12 +61,12 @@ Use only tags that describe what the repo actually contains: one or two Identity
 
 ```bash
 # identity
-data-engineering distributed-systems backend learning
+data-engineering distributed-systems backend machine-learning learning
 
-# technology
+# technology (open list, lowercase, short name e.g. flink not apache-flink)
 airflow dbt spark flink kafka redpanda duckdb iceberg delta-lake parquet avro terraform docker kubernetes
 
 # concept
 batch-processing stream-processing event-driven data-modeling schema-evolution query-optimization
-cost-optimization exactly-once backpressure observability governance
+cost-optimization exactly-once backpressure observability governance orchestration
 ```
