@@ -14,9 +14,9 @@ I focus on building reliable data platforms grounded in distributed systems, clo
 
 I organize my GitHub by intent:
 
-- Scratchpads — quick tests and spikes
-- Labs & PoCs — focused experiments
-- Deep dives — in-depth explorations
+- Scratchpad: quick spikes
+- Labs: one tech per repo
+- Archive: history only
 
 📫 https://www.linkedin.com/in/anthony-caliani/
 
